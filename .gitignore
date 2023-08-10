@@ -1,0 +1,36 @@
+# Node modules
+/node_modules/
+
+# Build directory
+/dist/
+/build/
+
+# Environment variables
+.env
+
+# Editor settings
+/.vscode/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# 3D model files that might be large (if you want to keep them out of the repo)
+/models/
+
+# Google Vision API credentials (if stored in a separate file)
+google-credentials.json
+
+# Other common ignore patterns for JavaScript projects
+*.bak
+*.cache
+*.sass-cache
+*.gz
